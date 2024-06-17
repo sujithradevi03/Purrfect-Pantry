@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: "Playwrite AU VIC", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+#navbar{
+    position: sticky;
+    top:0;
+    left:0;
+    z-index: 100;
+    padding: .5rem 5rem;
+    box-shadow: 5px 5px 20px black;
+    animation: nav 1s ease-in-out;
+}
+@keyframes nav{
+    0%{
+        transform: translateY(-100%);
+    }
+}
+.navbar .navbar-brand{
+    font-size: 25px;
+    font-weight: 800;
+    color: black;
+}
+#navbarSupportedContent .nav-link{
+    color: brown;
+    font-weight: 550;
+    border-bottom: 2px solid transparent;
+}
+#navbarSupportedContent .nav-link:hover{
+    border-bottom: 2px solid;
+    color:brown;
+}
+#navbarSupportedContent .btn{
+    background-color: brown !important;
+    color:white !important;
+    border-radius: 25px;
+}
+section{
+    padding-top: 25px;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#home{
+    background-image: url(https://img.thrfun.com/img/137/332/kittens_x2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#home h1{
+    font-weight: 900;
+    color: black !important;
+    letter-spacing: 3px;
+    text-shadow: 1px 0px 1px white,
+                 2px 0px 2px white,
+                 3px 0px 3px white,
+                 4px 0px 4px white,
+                 5px 0px 5px white,
+                 6px 0px 6px white;
+}
+#home p{
+    margin:100px;
+    font-weight: 550;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#home .input-group{
+    width:40%;
+    height: 50px;
+    justify-content: center;
+}
+.signup{
+    color: white !important;
+    background-color: brown !important;
+    border-radius: 12px;  
+    box-shadow: 2px 5px 2px black;
+}
+/******About*****/
+#about{
+    padding-left: 20px;
+    background-color: rgb(218, 210, 210);
+}
+#about h1{
+    font-weight: 730;
+    font-size: 40px;
+    color: black;
+    letter-spacing: 2px;
+    text-shadow: 1px 0px 1px white,
+                 2px 0px 2px white,
+                 3px 0px 3px white,
+                 4px 0px 4px white,
+                 5px 0px 5px white;
+}
+#about p{
+    padding-top: 10px;
+    margin-right: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    color: brown;
+}
+span{
+    color: black;
+    font-weight: 800;
+}
+span:hover{
+    color: white;
+}
+/*****************foods******************/
+#foods{
+    background-color: rgb(195, 76, 76);
+}
+
+#foods h1{
+    color: black;
+    font-weight: 730;
+    font-size: 38px;
+    letter-spacing: 2px;
+    text-shadow: 1px 0px 1px white,
+    2px 0px 2px white,
+    3px 0px 3px white;
+}
+#foods img{
+    width: 200px;
+    height: 200px;
+}
+#foods .card{
+    margin: 20px 60px;
+    box-shadow: 15px 20px 15px black;
+    border-radius: 20px;
+    justify-content: center;
+}
+/***************contact*********/
+#contact h1{
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 14px;
+    text-shadow: 1px 0px 1px grey,
+                 2px 0px 2px grey,
+                 3px 0px 3px grey;
+}
+.box{
+    width: 80% !important;
+}
+footer{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding-top: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 18px;
+}
