@@ -34,5 +34,18 @@ A simple footer with copyright information and a clean design.
 
 *Thank you for visiting Purrfect Pantry! We hope you and your feline friends enjoy our products as much as we enjoy offering them to you. 🐾*
 
-**License**
+## To Experience This Project , Click this link :-> https://purrfect-pantry-sujithra.glitch.me
+
+## License**
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Thank you
+-*If you guys have any project ideas , feel free to reach out me !!*
+
+-**📫Email**: sujithradevi508@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sujithradevi-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujithradevi-m" height="30" width="40" /></a>
+<a href="https://instagram.com/_.suzzyy____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.suzzyy____" height="30" width="40" /></a>
+</p>
+
