@@ -36,7 +36,7 @@ A simple footer with copyright information and a clean design.
 
 ## To Experience This Project , Click this link :-> https://purrfect-pantry-sujithra.glitch.me
 
-## License**
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Thank you
