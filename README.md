@@ -17,6 +17,11 @@ Welcome to **Purrfect Pantry**, your ultimate destination for premium cat food a
 - About
 - Contact
 
+
+## Figma Design
+
+-To view the design, click this link: https://www.figma.com/design/WWNsBbKUXxZMYCVgJ3lHwg/Purrfect-Pantry?node-id=0-1&t=85sFxxYdHBIbiswT-1
+
 ## Home
 An inviting section featuring a hero image of adorable kittens, with a welcoming message and an email signup form for updates and promotions.
 
